@@ -14,7 +14,7 @@ Note: Overflow does not need to be taken into account.
 ### 5.Program two alternative versions of sum
 There are several ways to implement the method described in the previous question.
 Write two differing implementations
-```c#
+```C#
 1 public static int Sum_A ( int n)
 2 {
 3 // TODO ...
